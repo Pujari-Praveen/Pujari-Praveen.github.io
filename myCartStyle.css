@@ -7,17 +7,6 @@
 
 }
 
-#homeHeader {
-   border-top-style: solid;
-   border-top-width: 5px;
-   border-top-color: #146ef5;
-   background-color: #FFFFFF;
-   max-width: 1335px;
-   margin: 0 auto;
-
-
-}
-
 /* Navigation bar */
 #navbar-container {
    max-height: 65px;
@@ -26,6 +15,12 @@
    box-sizing: content-box;
    box-shadow: 2px 1px 3px #888888;
    position: relative;
+   border-top-style: solid;
+   border-top-width: 5px;
+   border-top-color: #146ef5;
+   background-color: #FFFFFF;
+   max-width: 95vw;
+   margin: 0 auto;
 
 }
 
